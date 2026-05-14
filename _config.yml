@@ -1,0 +1,10 @@
+title: AI Marketing Pro
+description: AI-powered marketing strategies and tools
+theme: minima
+baseurl: ""
+url: "https://aimarketingpro.io"
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+show_excerpts: true
+minima:
+  skin: dark
