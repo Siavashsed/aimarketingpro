@@ -10,5 +10,18 @@
     "outbound_links": [
       "persado.com"
     ]
+  },
+  {
+    "title": "Using Claude to Write Better Ad Copy Than Your Agency (Without the Retainer Fee)",
+    "slug": "claude-better-ad-copy-agency",
+    "meta_description": "Jordan Blake shows how Claude outperforms traditional agencies on ad copy \u2014 with prompting frameworks that actually move ROAS.",
+    "date": "May 15, 2026",
+    "date_iso": "2026-05-15",
+    "author": "Jordan Blake",
+    "image": "https://images.pexels.com/photos/6958733/pexels-photo-6958733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "anthropic.com",
+      "nielseniq.com"
+    ]
   }
 ]
