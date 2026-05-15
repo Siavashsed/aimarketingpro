@@ -35,5 +35,19 @@
     "outbound_links": [
       "mailchimp.com"
     ]
+  },
+  {
+    "title": "How to Automate Your Content Calendar with AI Tools (Without Losing Strategic Control)",
+    "slug": "automate-content-calendar-ai-tools",
+    "meta_description": "Jordan Blake shows how to automate your content calendar with AI tools using real workflows, honest tradeoffs, and performance marketer logic.",
+    "date": "May 15, 2026",
+    "date_iso": "2026-05-15",
+    "author": "Jordan Blake",
+    "image": "https://images.pexels.com/photos/6892902/pexels-photo-6892902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "hubspot.com",
+      "semrush.com",
+      "zapier.com"
+    ]
   }
 ]
