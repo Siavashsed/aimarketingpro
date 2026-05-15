@@ -23,5 +23,17 @@
       "anthropic.com",
       "nielseniq.com"
     ]
+  },
+  {
+    "title": "AI-Generated vs Human-Written Email Sequences: What the Open Rate Data Actually Shows",
+    "slug": "ai-vs-human-email-open-rates",
+    "meta_description": "Jordan Blake breaks down real open rate data comparing AI-generated and human-written email sequences. The results are more nuanced than the hype suggests.",
+    "date": "May 15, 2026",
+    "date_iso": "2026-05-15",
+    "author": "Jordan Blake",
+    "image": "https://images.pexels.com/photos/669609/pexels-photo-669609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "mailchimp.com"
+    ]
   }
 ]
