@@ -1,0 +1,52 @@
+[
+  {
+    "id": "c1574",
+    "name": "Marcus T.",
+    "initials": "MT",
+    "color": "#ec4899",
+    "date_iso": "2026-05-16",
+    "date_display": "May 16, 2026",
+    "text": "Been testing Claude for ad copy for 3 weeks now. The conversion rates actually improved by 18% compared to what my agency was producing. Still need human review, but this is a game-changer for budget-conscious startups.",
+    "likes": 9
+  },
+  {
+    "id": "c2962",
+    "name": "Sarah K.",
+    "initials": "SK",
+    "color": "#ef4444",
+    "date_iso": "2026-05-18",
+    "date_display": "May 18, 2026",
+    "text": "This is great in theory but I'm curious about the learning curve. How long did it take you to get Claude to understand your brand voice? My agency gets nuance that feels hard to replicate.",
+    "likes": 7
+  },
+  {
+    "id": "c3944",
+    "name": "David R.",
+    "initials": "DR",
+    "color": "#3ecf8e",
+    "date_iso": "2026-05-21",
+    "date_display": "May 21, 2026",
+    "text": "The retainer fee thing really hits home. We were paying $8k/month and getting mediocre results. Switched to Claude + a freelance copywriter for half the cost. Best decision this quarter.",
+    "likes": 12
+  },
+  {
+    "id": "c4603",
+    "name": "Jennifer M.",
+    "initials": "JM",
+    "color": "#ec4899",
+    "date_iso": "2026-05-25",
+    "date_display": "May 25, 2026",
+    "text": "I tried this approach and honestly the copy felt generic. Maybe it works better for certain niches? I'm in luxury goods where differentiation is everything.",
+    "likes": 4
+  },
+  {
+    "id": "c5715",
+    "name": "Robert L.",
+    "initials": "RL",
+    "color": "#f97316",
+    "date_iso": "2026-05-29",
+    "date_display": "May 29, 2026",
+    "text": "The real value I found was using Claude to iterate through variations quickly, then my team picks the winners. It's like having a brainstorming partner available 24/7 for $0.",
+    "likes": 11
+  }
+]
