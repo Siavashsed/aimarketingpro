@@ -61,5 +61,17 @@
     "outbound_links": [
       "forrester.com"
     ]
+  },
+  {
+    "title": "ChatGPT vs Claude vs Gemini for Marketing Copy: An Honest Take From Someone Who's Actually Used All Three",
+    "slug": "chatgpt-claude-gemini-marketing-copy-comparison",
+    "meta_description": "Jordan Blake compares ChatGPT, Claude, and Gemini for marketing copy based on real testing \u2014 not benchmarks. Here's which one actually moves product.",
+    "date": "May 17, 2026",
+    "date_iso": "2026-05-17",
+    "author": "Jordan Blake",
+    "image": "https://images.pexels.com/photos/7561704/pexels-photo-7561704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "persado.com"
+    ]
   }
 ]
