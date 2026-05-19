@@ -1111,13 +1111,15 @@ function handleNLSubmit(form,successId){
 
 // ── ARTICLES.JSON LOADER ──────────────────────────────────────────────────
 (async function loadPosts(){
+  if(!document.getElementById('articles-grid'))return;
+  var grid=document.getElementById('articles-grid');
   try{
     var r=await fetch('./articles.json');
     if(!r.ok)throw 0;
     var posts=await r.json();
-    if(!posts||!posts.length)throw 0;
-    var grid=document.getElementById('articles-grid');
-    if(!grid)return;
+    if(!Array.isArray(posts))throw 0;
+    posts=posts.filter(function(p){return p&&p.slug&&p.title;});
+    if(!posts.length)throw 0;
     var cats=['AI Copywriting','Content Automation','Paid Ad Optimization','Analytics','Email AI','CRO'];
     grid.innerHTML=posts.slice(0,3).map(function(p,i){
       return '<article class="art-card"><div class="art-card-top"></div><div class="art-card-body">'
@@ -1130,7 +1132,7 @@ function handleNLSubmit(form,successId){
         +'</div></div></article>';
     }).join('');
   }catch(e){
-    // Keep static fallback cards already in HTML
+    grid.innerHTML='<p style="grid-column:1/-1;text-align:center;color:var(--muted);font-family:var(--mono);font-size:13px;padding:40px 0">New articles coming soon.</p>';
   }
 })();
 
