@@ -11,7 +11,8 @@
       "crayon.co",
       "apify.com",
       "semrush.com"
-    ]
+    ],
+    "category": "AI Copywriting"
   },
   {
     "title": "Pricing Psychology: Why $97 Beats $99 in Most DTC Markets",
@@ -24,7 +25,8 @@
     "outbound_links": [
       "intelligems.io"
     ],
-    "syndicated_from": "ecommerceedge"
+    "syndicated_from": "ecommerceedge",
+    "category": "Conversion & CRO"
   },
   {
     "title": "ChatGPT vs Claude vs Gemini for Marketing Copy: An Honest Take From Someone Who's Actually Used All Three",
@@ -36,7 +38,8 @@
     "image": "https://images.pexels.com/photos/7561704/pexels-photo-7561704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "outbound_links": [
       "persado.com"
-    ]
+    ],
+    "category": "AI Copywriting"
   },
   {
     "title": "How Top DTC Brands Turn the Thank-You Page Into a Revenue Machine",
@@ -49,7 +52,8 @@
     "outbound_links": [
       "zipify.com"
     ],
-    "syndicated_from": "ecommerceedge"
+    "syndicated_from": "ecommerceedge",
+    "category": "Conversion & CRO"
   },
   {
     "title": "Building an AI-Powered Lead Scoring System That Sales Will Actually Trust",
@@ -61,7 +65,8 @@
     "image": "https://images.pexels.com/photos/7013070/pexels-photo-7013070.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "outbound_links": [
       "forrester.com"
-    ]
+    ],
+    "category": "Email Marketing"
   },
   {
     "title": "The Abandoned Cart Email Sequence That Consistently Recovers 15% of Lost Revenue",
@@ -74,7 +79,8 @@
     "outbound_links": [
       "baymard.com"
     ],
-    "syndicated_from": "ecommerceedge"
+    "syndicated_from": "ecommerceedge",
+    "category": "Email Marketing"
   },
   {
     "title": "AI Copywriting Tools in Real A/B Tests: What the Data Actually Shows",
@@ -86,7 +92,8 @@
     "image": "https://images.pexels.com/photos/7947698/pexels-photo-7947698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "outbound_links": [
       "persado.com"
-    ]
+    ],
+    "category": "AI Copywriting"
   },
   {
     "title": "Using Claude to Write Better Ad Copy Than Your Agency (Without the Retainer Fee)",
@@ -99,7 +106,8 @@
     "outbound_links": [
       "anthropic.com",
       "nielseniq.com"
-    ]
+    ],
+    "category": "AI Copywriting"
   },
   {
     "title": "AI-Generated vs Human-Written Email Sequences: What the Open Rate Data Actually Shows",
@@ -111,7 +119,8 @@
     "image": "https://images.pexels.com/photos/669609/pexels-photo-669609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "outbound_links": [
       "mailchimp.com"
-    ]
+    ],
+    "category": "AI Copywriting"
   },
   {
     "title": "How to Automate Your Content Calendar with AI Tools (Without Losing Strategic Control)",
@@ -125,7 +134,8 @@
       "hubspot.com",
       "semrush.com",
       "zapier.com"
-    ]
+    ],
+    "category": "AI Copywriting"
   },
   {
     "title": "How to Increase Your Shopify Conversion Rate Without Spending a Dollar on Ads",
@@ -139,7 +149,8 @@
       "baymard.com",
       "developers.google.com/search/blog/2020/05/evaluating-page-experience"
     ],
-    "syndicated_from": "ecommerceedge"
+    "syndicated_from": "ecommerceedge",
+    "category": "Conversion & CRO"
   },
   {
     "title": "Product Page Elements That Kill Conversions (And Why Most Brands Miss Them)",
@@ -152,6 +163,7 @@
     "outbound_links": [
       "baymard.com"
     ],
-    "syndicated_from": "ecommerceedge"
+    "syndicated_from": "ecommerceedge",
+    "category": "Paid Media"
   }
 ]
