@@ -31,38 +31,28 @@ html{scroll-behavior:smooth}
 }
 body{background:var(--bg);color:var(--text);font-family:var(--font);font-size:15px;line-height:1.65;overflow-x:hidden}
 a{color:inherit;text-decoration:none}
-img{display:block;max-width:100%}
-
-/* ── SCAN LINE ANIMATION ── */
-@keyframes scanline{
+img{display:block;max-width:100%}@keyframes scanline{
   0%{transform:translateY(-100%)}
   100%{transform:translateY(100vh)}
-}
-@keyframes pulse-glow{
+}@keyframes pulse-glow{
   0%,100%{opacity:1;box-shadow:0 0 12px rgba(168,85,247,0.5)}
   50%{opacity:0.7;box-shadow:0 0 24px rgba(168,85,247,0.8),0 0 48px rgba(168,85,247,0.3)}
-}
-@keyframes pulse-dot{
+}@keyframes pulse-dot{
   0%,100%{transform:scale(1);opacity:1}
   50%{transform:scale(1.5);opacity:0.6}
-}
-@keyframes float-up{
+}@keyframes float-up{
   0%,100%{transform:translateY(0)}
   50%{transform:translateY(-8px)}
-}
-@keyframes grid-fade{
+}@keyframes grid-fade{
   0%,100%{opacity:0.03}
   50%{opacity:0.06}
-}
-@keyframes shimmer{
+}@keyframes shimmer{
   0%{background-position:200% 0}
   to{background-position:-200% 0}
-}
-@keyframes data-tick{
+}@keyframes data-tick{
   0%,90%,100%{opacity:1}
   95%{opacity:0.3}
-}
-@keyframes border-glow{
+}@keyframes border-glow{
   0%,100%{box-shadow:0 0 0 1px var(--border),var(--glow-purple)}
   50%{box-shadow:0 0 0 1px rgba(168,85,247,0.5),0 0 30px rgba(168,85,247,0.4)}
 }
@@ -155,8 +145,7 @@ img{display:block;max-width:100%}
   border-bottom:1px solid var(--border);
   transition:all .2s;
 }
-.nav-mobile a:hover{color:var(--text);background:rgba(168,85,247,0.05);padding-left:30px}
-@media(max-width:768px){
+.nav-mobile a:hover{color:var(--text);background:rgba(168,85,247,0.05);padding-left:30px}@media(max-width:768px){
   .nav-links,.nav-status{display:none}
   .nav-btn{display:none}
   .nav-burger{display:flex}
@@ -835,14 +824,10 @@ img{display:block;max-width:100%}
 .tick-item:nth-child(3){animation-delay:1.6s}
 .tick-item:nth-child(4){animation-delay:2.4s}
 .tick-up{color:#34d399;font-weight:500}
-.tick-down{color:#f87171;font-weight:500}
-
-/* ── RESPONSIVE ── */
-@media(max-width:1024px){
+.tick-down{color:#f87171;font-weight:500}@media(max-width:1024px){
   .caps-grid{grid-template-columns:repeat(2,1fr)}
   .articles-grid{grid-template-columns:repeat(2,1fr)}
-}
-@media(max-width:768px){
+}@media(max-width:768px){
   .hero{padding:72px 20px 60px}
   .hero-h1{letter-spacing:-1px}
   .hero-actions{flex-direction:column;align-items:stretch}
@@ -864,8 +849,7 @@ img{display:block;max-width:100%}
   .foot-nl-form{flex-direction:column;border-radius:8px}
   .foot-nl-form input{border-radius:8px;border:1px solid var(--border)}
   .foot-nl-form button{border-radius:8px;margin-top:8px}
-}
-@media(max-width:480px){
+}@media(max-width:480px){
   .stat-item{flex:1 1 100%}
   .data-ticker{gap:12px}
   .result-number{font-size:40px}
@@ -917,7 +901,16 @@ img{display:block;max-width:100%}
   animation:pulse-dot 1s step-end infinite;
   vertical-align:middle;margin-left:2px;
 }
-</style>
+/* Article-page-only: force the article H1 / hero title to solid black so it
+   always reads with maximum contrast on the white article paper. depth=1 set by
+   layout_shell.wrap_page. */
+body[data-page-depth="1"] h1,
+body[data-page-depth="1"] .art-title,
+body[data-page-depth="1"] .mag-hero h1,
+body[data-page-depth="1"] article h1,
+body[data-page-depth="1"] .article-title{
+  color:#000 !important;
+}</style>
 </head>
 <body data-page-depth="0">
 <!-- NAV -->
@@ -952,9 +945,7 @@ img{display:block;max-width:100%}
 </nav>
 <style>
 .ab-main{--ab-bg:#08060f;--ab-bg2:#100c1a;--ab-surface:#17122a;--ab-primary:#a855f7;--ab-primary2:#7c3aed;--ab-secondary:#06b6d4;--ab-text:#f0e8ff;--ab-muted:#9575cd;--ab-border:#2a1f45;--ab-font:'Space Grotesk',system-ui,sans-serif;--ab-mono:'DM Mono',monospace;background:var(--ab-bg);color:var(--ab-text);font-family:var(--ab-font)}
-.ab-main *{box-sizing:border-box}
-@keyframes ab-pulse-dot{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.5);opacity:.6}}
-@keyframes ab-grid-fade{0%,100%{opacity:.03}50%{opacity:.06}}
+.ab-main *{box-sizing:border-box}@keyframes ab-pulse-dot{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.5);opacity:.6}}@keyframes ab-grid-fade{0%,100%{opacity:.03}50%{opacity:.06}}
 
 .ab-hero{position:relative;overflow:hidden;padding:96px 24px 72px;border-bottom:1px solid var(--ab-border)}
 .ab-hero-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(168,85,247,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(168,85,247,.04) 1px,transparent 1px);background-size:48px 48px;animation:ab-grid-fade 6s ease-in-out infinite;pointer-events:none}
@@ -1005,10 +996,7 @@ img{display:block;max-width:100%}
 
 .ab-cta{text-align:center;background:var(--ab-bg2);border-top:1px solid var(--ab-border)}
 .ab-cta-btn{display:inline-block;margin-top:22px;font-size:14px;font-weight:600;color:#fff;background:linear-gradient(135deg,var(--ab-primary2),var(--ab-primary));padding:14px 30px;border-radius:8px;box-shadow:0 0 24px rgba(168,85,247,.4);transition:transform .2s}
-.ab-cta-btn:hover{transform:translateY(-2px)}
-
-@media(max-width:680px){.ab-method{grid-template-columns:1fr}.ab-author-inner{grid-template-columns:1fr}.ab-avatar{display:none}.ab-author{padding:32px 24px}}
-</style>
+.ab-cta-btn:hover{transform:translateY(-2px)}@media(max-width:680px){.ab-method{grid-template-columns:1fr}.ab-author-inner{grid-template-columns:1fr}.ab-avatar{display:none}.ab-author{padding:32px 24px}}</style>
 <main class="ab-main">
   <section class="ab-hero">
     <div class="ab-hero-grid"></div>
@@ -1125,7 +1113,7 @@ img{display:block;max-width:100%}
       </a>
       <!-- RSS -->
       <a href="https://siavashsed.github.io/aimarketingpro/" class="foot-social-btn" title="RSS Feed" target="_blank" rel="noopener">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/></svg>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a9 9 0 0 1 9 9"/><circle cx="5" cy="19" r="1"/></svg>
       </a>
       <!-- GitHub Pages link -->
       <a href="https://siavashsed.github.io/aimarketingpro/" class="foot-social-btn" title="GitHub Pages" target="_blank" rel="noopener">
