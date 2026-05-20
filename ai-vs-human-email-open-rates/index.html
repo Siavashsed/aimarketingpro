@@ -1060,6 +1060,81 @@ img{display:block;max-width:100%}@keyframes scanline{
   --primary:#a855f7;
   --primary2:#7c3aed;
   --secondary:#06b6d4;
+  --text:#f0e8ff;
+  --muted:#9575cd;
+  --border:#2a1f45;
+  --font:'Space Grotesk',system-ui,sans-serif;
+  --mono:'DM Mono',monospace;
+  --glow-purple:0 0 20px rgba(168,85,247,0.3);
+  --glow-purple-lg:0 0 40px rgba(168,85,247,0.25),0 0 80px rgba(168,85,247,0.1);
+  --glow-cyan:0 0 20px rgba(6,182,212,0.3);
+  --glow-cyan-lg:0 0 40px rgba(6,182,212,0.2);
+}@keyframes scanline{
+  0%{transform:translateY(-100%)}
+  100%{transform:translateY(100vh)}
+}@keyframes pulse-glow{
+  0%,100%{opacity:1;box-shadow:0 0 12px rgba(168,85,247,0.5)}
+  50%{opacity:0.7;box-shadow:0 0 24px rgba(168,85,247,0.8),0 0 48px rgba(168,85,247,0.3)}
+}@keyframes pulse-dot{
+  0%,100%{transform:scale(1);opacity:1}
+  50%{transform:scale(1.5);opacity:0.6}
+}@keyframes float-up{
+  0%,100%{transform:translateY(0)}
+  50%{transform:translateY(-8px)}
+}@keyframes grid-fade{
+  0%,100%{opacity:0.03}
+  50%{opacity:0.06}
+}@keyframes shimmer{
+  0%{background-position:200% 0}
+  to{background-position:-200% 0}
+}@keyframes data-tick{
+  0%,90%,100%{opacity:1}
+  95%{opacity:0.3}
+}@keyframes border-glow{
+  0%,100%{box-shadow:0 0 0 1px var(--border),var(--glow-purple)}
+  50%{box-shadow:0 0 0 1px rgba(168,85,247,0.5),0 0 30px rgba(168,85,247,0.4)}
+}@media(max-width:768px){
+  .nav-links,.nav-status{display:none}
+  .nav-btn{display:none}
+  .nav-burger{display:flex}
+}@media(max-width:1024px){
+  .caps-grid{grid-template-columns:repeat(2,1fr)}
+  .articles-grid{grid-template-columns:repeat(2,1fr)}
+}@media(max-width:768px){
+  .hero{padding:72px 20px 60px}
+  .hero-h1{letter-spacing:-1px}
+  .hero-actions{flex-direction:column;align-items:stretch}
+  .hero-cta,.hero-cta-ghost{text-align:center}
+  .stats-bar{gap:0}
+  .stat-item{flex:1 1 48%;border-right:none;border-bottom:none}
+  .stat-item:nth-child(odd){border-right:none}
+  .stat-item{border:1px solid var(--border);border-radius:0;margin:-0.5px}
+  .caps-grid{grid-template-columns:1fr}
+  .results-grid{grid-template-columns:1fr}
+  .author-inner{grid-template-columns:1fr}
+  .author-avatar{display:none}
+  .articles-grid{grid-template-columns:1fr}
+  .nl-card{padding:36px 24px}
+  .nl-form{flex-direction:column;border-radius:8px}
+  .nl-form input{border-radius:8px;border:1px solid var(--border)}
+  .nl-form button{border-radius:8px;margin-top:8px}
+  .section{padding:60px 20px}
+  .foot-nl-form{flex-direction:column;border-radius:8px}
+  .foot-nl-form input{border-radius:8px;border:1px solid var(--border)}
+  .foot-nl-form button{border-radius:8px;margin-top:8px}
+}@media(max-width:480px){
+  .stat-item{flex:1 1 100%}
+  .data-ticker{gap:12px}
+  .result-number{font-size:40px}
+  .author-card{padding:32px 24px}
+}
+:root{
+  --bg:#08060f;
+  --bg2:#100c1a;
+  --surface:#17122a;
+  --primary:#a855f7;
+  --primary2:#7c3aed;
+  --secondary:#06b6d4;
   --text:#ffffff;
   --muted:#9575cd;
   --border:#2a1f45;
@@ -1772,7 +1847,7 @@ p{margin-bottom:18px;color:#aaa;line-height:1.75}
   </div>
 </nav>
 <article itemscope itemtype="https://schema.org/Article"><div class="art">
-  <div class="meta"><a href="../" style="color:#555">← Home</a> &nbsp;·&nbsp; <time datetime="2026-05-15"><time datetime="2026-05-15"><time datetime="2026-05-15"><time datetime="2026-05-15"><time datetime="2026-05-15">May 15, 2026</time></time></time></time></time> &nbsp;·&nbsp; AI-Powered Marketing</div>
+  <div class="meta"><a href="../" style="color:#555">← Home</a> &nbsp;·&nbsp; <time datetime="2026-05-15"><time datetime="2026-05-15"><time datetime="2026-05-15"><time datetime="2026-05-15"><time datetime="2026-05-15"><time datetime="2026-05-15">May 15, 2026</time></time></time></time></time></time> &nbsp;·&nbsp; AI-Powered Marketing</div>
   <h1>AI-Generated vs Human-Written Email Sequences: What the Open Rate Data Actually Shows</h1>
   <div style="font-size:13px;color:#555;margin-bottom:24px">By <strong style="color:#aaa">Jordan Blake</strong></div>
   <img src="https://images.pexels.com/photos/669609/pexels-photo-669609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Laptop screen showing email campaign open rate analytics dashboard with performance graphs" loading="lazy" style="width:100%;height:400px;object-fit:cover;border-radius:8px;margin:28px 0"><p style="font-size:11px;color:#555;margin:-16px 0 20px">Photo by Lukas Blazek / Pexels</p>
@@ -1915,7 +1990,7 @@ p{margin-bottom:18px;color:#aaa;line-height:1.75}
     }).catch(function(){allComments=[];rerender();});
   }
 })();
-</script></article></article></article></article></article>
+</script></article></article></article></article></article></article>
 <footer class="foot">
   <div class="foot-inner">
     <div class="foot-logo-wrap">
