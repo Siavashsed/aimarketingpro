@@ -165,5 +165,63 @@
     ],
     "syndicated_from": "ecommerceedge",
     "category": "Paid Media"
+  },
+  {
+    "title": "Google's BERT Update in 2019 Was the Biggest Signal Yet That AI-Powered Marketing Had to Grow Up",
+    "slug": "google-bert-update-2019-ai-marketing",
+    "meta_description": "Google's 2019 BERT update changed how search understood intent. Here's what it meant for AI-powered marketing at the time it landed.",
+    "date": "August 12, 2019",
+    "date_iso": "2019-08-12",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7119258/pexels-photo-7119258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "blog.google",
+      "searchengineland.com",
+      "moz.com",
+      "mckinsey.com"
+    ],
+    "posted_iso": "2026-05-28",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Google's BERT Update Hit in 2019 and AI-Powered Marketing Was Never the Same",
+    "slug": "google-bert-update-2019-ai-marketing-2",
+    "meta_description": "Google's BERT update in 2019 reshaped AI-powered marketing forever. Here's what happened, what it meant, and why most marketers missed the real lesson.",
+    "date": "October 16, 2019",
+    "date_iso": "2019-10-16",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/8294658/pexels-photo-8294658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "blog.google",
+      "searchengineland.com",
+      "arxiv.org"
+    ],
+    "posted_iso": "2026-05-28",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Google's Search Generative Experience in 2023 Changed AI-Powered Marketing Forever",
+    "slug": "google-sge-2023-ai-marketing",
+    "meta_description": "Google's SGE launch in 2023 reshaped AI-powered marketing. Here's what it meant, what marketers got wrong, and what to do now.",
+    "date": "February 23, 2023",
+    "date_iso": "2023-02-23",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/17888109/pexels-photo-17888109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "bain.com",
+      "searchengineland.com",
+      "internetlivestats.com"
+    ],
+    "posted_iso": "2026-05-28",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
