@@ -183,7 +183,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Conversion & CRO"
   },
   {
     "title": "Google's BERT Update Hit in 2019 and AI-Powered Marketing Was Never the Same",
@@ -201,7 +202,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "AI Copywriting"
   },
   {
     "title": "Google's Search Generative Experience in 2023 Changed AI-Powered Marketing Forever",
@@ -219,7 +221,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Paid Media"
   },
   {
     "title": "Why Your AI Marketing Experiments Are Failing (And How to Fix Them)",
@@ -237,7 +240,8 @@
     "posted_iso": "2026-05-29",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "AI Copywriting"
   },
   {
     "title": "Google's AI Overviews Rollout in 2024 Was the Wake-Up Call AI-Powered Marketing Needed",
@@ -257,6 +261,7 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Paid Media"
   }
 ]
