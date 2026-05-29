@@ -220,5 +220,43 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Why Your AI Marketing Experiments Are Failing (And How to Fix Them)",
+    "slug": "why-ai-marketing-experiments-failing",
+    "meta_description": "AI marketing experiments fail for predictable reasons. Jordan Cole explains the real causes and how to fix them fast.",
+    "date": "May 29, 2026",
+    "date_iso": "2026-05-29",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7710074/pexels-photo-7710074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "hbr.org",
+      "mckinsey.com",
+      "searchengineland.com"
+    ],
+    "posted_iso": "2026-05-29",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Google's AI Overviews Rollout in 2024 Was the Wake-Up Call AI-Powered Marketing Needed",
+    "slug": "google-ai-overviews-2024-marketing",
+    "meta_description": "Google's AI Overviews launch in May 2024 reshaped SEO and paid search. Here's what it meant for AI-powered marketing strategy in real time.",
+    "date": "February 28, 2024",
+    "date_iso": "2024-02-28",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/16027824/pexels-photo-16027824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "blog.google",
+      "semrush.com",
+      "theverge.com",
+      "brightedge.com"
+    ],
+    "posted_iso": "2026-05-29",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
