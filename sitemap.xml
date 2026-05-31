@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://siavashsed.github.io/aimarketingpro/</loc><lastmod>2026-05-29</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://siavashsed.github.io/aimarketingpro/about/</loc><lastmod>2026-05-29</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://siavashsed.github.io/aimarketingpro/contact/</loc><lastmod>2026-05-29</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://siavashsed.github.io/aimarketingpro/privacy/</loc><lastmod>2026-05-29</lastmod><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://siavashsed.github.io/aimarketingpro/</loc><lastmod>2026-05-31</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://siavashsed.github.io/aimarketingpro/about/</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://siavashsed.github.io/aimarketingpro/contact/</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://siavashsed.github.io/aimarketingpro/privacy/</loc><lastmod>2026-05-31</lastmod><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://siavashsed.github.io/aimarketingpro/ai-demand-intelligence-amazon-marketing-edge/</loc><lastmod>2026-01-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://siavashsed.github.io/aimarketingpro/ai-competitor-analysis-at-scale/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://siavashsed.github.io/aimarketingpro/pricing-psychology-97-beats-99/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://siavashsed.github.io/aimarketingpro/chatgpt-claude-gemini-marketing-copy-comparison/</loc><lastmod>2026-05-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -21,4 +22,6 @@
   <url><loc>https://siavashsed.github.io/aimarketingpro/google-sge-2023-ai-marketing/</loc><lastmod>2023-02-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://siavashsed.github.io/aimarketingpro/why-ai-marketing-experiments-failing/</loc><lastmod>2026-05-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://siavashsed.github.io/aimarketingpro/google-ai-overviews-2024-marketing/</loc><lastmod>2024-02-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://siavashsed.github.io/aimarketingpro/ai-customer-lifetime-value-prediction/</loc><lastmod>2026-05-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://siavashsed.github.io/aimarketingpro/gpt-3-2020-ai-marketing-launch/</loc><lastmod>2020-08-19</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
