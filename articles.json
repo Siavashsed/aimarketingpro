@@ -276,5 +276,42 @@
       "en"
     ],
     "category": "Paid Media"
+  },
+  {
+    "title": "AI for Customer Lifetime Value Prediction: Identify High-Value Prospects Earlier Than Your Competitors Do",
+    "slug": "ai-customer-lifetime-value-prediction",
+    "meta_description": "AI-powered CLV prediction lets you identify high-value prospects before your competitors do. Here's how to actually build this into your acquisition strategy.",
+    "date": "May 31, 2026",
+    "date_iso": "2026-05-31",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/3912976/pexels-photo-3912976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "hbr.org",
+      "mckinsey.com",
+      "bain.com"
+    ],
+    "posted_iso": "2026-05-31",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "GPT-3 Dropped in 2020 and Quietly Rewired What AI Marketing Could Actually Do",
+    "slug": "gpt-3-2020-ai-marketing-launch",
+    "meta_description": "GPT-3's 2020 launch changed AI-powered marketing forever. Here's what it meant at the time, who got it right, and what most people missed.",
+    "date": "August 19, 2020",
+    "date_iso": "2020-08-19",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/8294598/pexels-photo-8294598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "openai.com",
+      "mckinsey.com",
+      "arxiv.org"
+    ],
+    "posted_iso": "2026-05-31",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
