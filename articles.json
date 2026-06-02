@@ -293,7 +293,8 @@
     "posted_iso": "2026-05-31",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Conversion & CRO"
   },
   {
     "title": "GPT-3 Dropped in 2020 and Quietly Rewired What AI Marketing Could Actually Do",
@@ -312,6 +313,7 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "AI Copywriting"
   }
 ]
