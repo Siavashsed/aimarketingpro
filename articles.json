@@ -315,5 +315,23 @@
       "en"
     ],
     "category": "AI Copywriting"
+  },
+  {
+    "title": "Predictive Churn Prevention: Save Customers Before They Decide to Leave",
+    "slug": "predictive-churn-prevention-ai-customers",
+    "meta_description": "Jordan Cole on using AI for predictive churn prevention - the signals, models, and timing that actually keep customers from walking out.",
+    "date": "June 02, 2026",
+    "date_iso": "2026-06-02",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/5716015/pexels-photo-5716015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "hbr.org",
+      "bain.com",
+      "deloitte.com"
+    ],
+    "posted_iso": "2026-06-02",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
