@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Marcus Bell",
+    "date_display": "May 24, 2026 - 9:12 AM",
+    "text": "I came in ready to roll my eyes at another 'AI changes everything' piece, but the point about feedback-loop latency is the first time someone has named the actual thing that kept me stuck for two years. Sending this to my brother who keeps starting and quitting stores.",
+    "reply": {
+      "name": "Dana Okafor",
+      "date_display": "May 24, 2026 - 1:40 PM",
+      "text": "That latency point is the whole game, Marcus. Most people are not bad at ecommerce, they just iterate once a month when they need to iterate twice a week. Tell your brother to start with one small loop and shorten it."
+    }
+  },
+  {
+    "name": "Priya Nair",
+    "date_display": "Apr 30, 2026 - 6:48 PM",
+    "text": "The bit about Sia barely wanting to talk about it is what made me trust this. Every other program in this space leads with a Lamborghini. Quick question, is the AI agents part included or is that separate?",
+    "reply": {
+      "name": "Dana Okafor",
+      "date_display": "Apr 30, 2026 - 9:15 PM",
+      "text": "Separate track, Priya. The main program is the build itself, the AI agents course is its own thing you can add later. I would do the core first so the agents have something to plug into."
+    }
+  },
+  {
+    "name": "Tom Hargreave",
+    "date_display": "Apr 2, 2026 - 11:30 AM",
+    "text": "Genuinely useful framing. One pushback though: if AI lowers cost per iteration for everyone, does the edge not just disappear once everyone iterates faster?",
+    "reply": {
+      "name": "Dana Okafor",
+      "date_display": "Apr 2, 2026 - 3:05 PM",
+      "text": "Fair pushback, Tom. The edge was never the tool, it is the sequence and the judgement about which loop to run next. The tool got cheap and the thinking got more valuable, not less."
+    }
+  },
+  {
+    "name": "Lena Fischer",
+    "date_display": "Mar 8, 2026 - 8:20 AM",
+    "text": "Found this through a friend who is 'two wagons in' (her words). The train thing sounded gimmicky until she explained you always know exactly what you are building this week. That alone would have saved me a year of flailing.",
+    "reply": {
+      "name": "Dana Okafor",
+      "date_display": "Mar 8, 2026 - 12:55 PM",
+      "text": "That is the feedback I hear most, Lena. The format is not the magic, knowing what is next is. Tell your friend the middle wagons are where it really clicks."
+    }
+  },
+  {
+    "name": "Andre Costa",
+    "date_display": "Feb 11, 2026 - 7:05 PM",
+    "text": "Skeptic here. I have bought three courses and quit all three. What is actually different about a day by day thing versus a normal course I will also abandon?",
+    "reply": {
+      "name": "Dana Okafor",
+      "date_display": "Feb 11, 2026 - 10:40 PM",
+      "text": "Honest question, Andre, and I will not pretend it is magic. It never shows you the whole mountain, just today's step, so the overwhelm that usually triggers quitting fires a lot less. You still have to show up though."
+    }
+  },
+  {
+    "name": "Sofia Reyes",
+    "date_display": "Jan 19, 2026 - 2:15 PM",
+    "text": "Refreshing to read something that does not promise a number. I emailed them before joining and an actual person answered within a day, which honestly sold me more than any sales page could.",
+    "reply": {
+      "name": "Dana Okafor",
+      "date_display": "Jan 19, 2026 - 4:30 PM",
+      "text": "That matches what I found reporting this, Sofia. The lack of a hard pitch is doing more work than a pitch ever would. Glad you got a real reply."
+    }
+  }
+]
