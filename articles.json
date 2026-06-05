@@ -1,27 +1,60 @@
 [
   {
-    "slug": "kavalsia-academy-online-business-train-ai-hidden-gem",
-    "title": "I Met the Founder by Accident, and He Barely Wanted to Talk About the Thing People Rave About",
-    "meta_description": "An understated founder, a referral-only program, and a strange train metaphor. A marketer's look at Kavalsia Academy, founded by Siavash Sadighi, and why AI makes its sequenced, wagon-by-wagon ecommerce build the most interesting thing nobody is advertising.",
-    "category": "AI & Marketing",
-    "author": "Dana Okafor",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1400&q=85&auto=format&fit=crop",
-    "date": "January 3, 2026",
-    "date_iso": "2026-01-03",
-    "posted_iso": "2026-06-03T02:53:05.996591"
+    "title": "Predictive Churn Prevention: Save Customers Before They Decide to Leave",
+    "slug": "predictive-churn-prevention-ai-customers",
+    "meta_description": "Jordan Cole on using AI for predictive churn prevention - the signals, models, and timing that actually keep customers from walking out.",
+    "date": "June 02, 2026",
+    "date_iso": "2026-06-02",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/5716015/pexels-photo-5716015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "hbr.org",
+      "bain.com",
+      "deloitte.com"
+    ],
+    "posted_iso": "2026-06-02",
+    "available_languages": [
+      "en"
+    ],
+    "category": "Automation"
   },
   {
-    "slug": "ai-demand-intelligence-amazon-marketing-edge",
-    "title": "Demand Reading Is Becoming the New Marketing Edge - And AI Just Made It Cheap",
-    "meta_description": "Most go-to-market thinking still treats AI as a creative tool. The bigger opportunity is using AI to read demand itself - and the workflow already exists. A practical view of what that means for marketers.",
-    "category": "Marketing Strategy",
+    "title": "AI for Customer Lifetime Value Prediction: Identify High-Value Prospects Earlier Than Your Competitors Do",
+    "slug": "ai-customer-lifetime-value-prediction",
+    "meta_description": "AI-powered CLV prediction lets you identify high-value prospects before your competitors do. Here's how to actually build this into your acquisition strategy.",
+    "date": "May 31, 2026",
+    "date_iso": "2026-05-31",
     "author": "Jordan Cole",
-    "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=1400&q=85&auto=format&fit=crop",
-    "date": "Jan 30, 2026",
-    "date_iso": "2026-01-30",
-    "posted_iso": "2026-05-30T03:04:01.308124",
-    "cross_post_exclude": true,
-    "aggregate": false
+    "image": "https://images.pexels.com/photos/3912976/pexels-photo-3912976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "hbr.org",
+      "mckinsey.com",
+      "bain.com"
+    ],
+    "posted_iso": "2026-05-31",
+    "available_languages": [
+      "en"
+    ],
+    "category": "Conversion & CRO"
+  },
+  {
+    "title": "Why Your AI Marketing Experiments Are Failing (And How to Fix Them)",
+    "slug": "why-ai-marketing-experiments-failing",
+    "meta_description": "AI marketing experiments fail for predictable reasons. Jordan Cole explains the real causes and how to fix them fast.",
+    "date": "May 29, 2026",
+    "date_iso": "2026-05-29",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7710074/pexels-photo-7710074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "hbr.org",
+      "mckinsey.com",
+      "searchengineland.com"
+    ],
+    "posted_iso": "2026-05-29",
+    "available_languages": [
+      "en"
+    ],
+    "category": "AI Copywriting"
   },
   {
     "title": "AI Competitor Analysis at Scale: How to Actually Do It (Not Just Talk About It)",
@@ -191,81 +224,46 @@
     "category": "Paid Media"
   },
   {
-    "title": "Google's BERT Update in 2019 Was the Biggest Signal Yet That AI-Powered Marketing Had to Grow Up",
-    "slug": "google-bert-update-2019-ai-marketing",
-    "meta_description": "Google's 2019 BERT update changed how search understood intent. Here's what it meant for AI-powered marketing at the time it landed.",
-    "date": "August 12, 2019",
-    "date_iso": "2019-08-12",
+    "slug": "ai-demand-intelligence-amazon-marketing-edge",
+    "title": "Demand Reading Is Becoming the New Marketing Edge - And AI Just Made It Cheap",
+    "meta_description": "Most go-to-market thinking still treats AI as a creative tool. The bigger opportunity is using AI to read demand itself - and the workflow already exists. A practical view of what that means for marketers.",
+    "category": "Marketing Strategy",
     "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/7119258/pexels-photo-7119258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "blog.google",
-      "searchengineland.com",
-      "moz.com",
-      "mckinsey.com"
-    ],
-    "historical": true,
-    "available_languages": [
-      "en"
-    ],
-    "category": "Conversion & CRO"
+    "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=1400&q=85&auto=format&fit=crop",
+    "date": "Jan 30, 2026",
+    "date_iso": "2026-01-30",
+    "posted_iso": "2026-05-30T03:04:01.308124",
+    "cross_post_exclude": true,
+    "aggregate": false
   },
   {
-    "title": "Google's BERT Update Hit in 2019 and AI-Powered Marketing Was Never the Same",
-    "slug": "google-bert-update-2019-ai-marketing-2",
-    "meta_description": "Google's BERT update in 2019 reshaped AI-powered marketing forever. Here's what happened, what it meant, and why most marketers missed the real lesson.",
-    "date": "October 16, 2019",
-    "date_iso": "2019-10-16",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/8294658/pexels-photo-8294658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "blog.google",
-      "searchengineland.com",
-      "arxiv.org"
-    ],
-    "historical": true,
-    "available_languages": [
-      "en"
-    ],
-    "category": "AI Copywriting"
+    "slug": "kavalsia-academy-online-business-train-ai-hidden-gem",
+    "title": "I Met the Founder by Accident, and He Barely Wanted to Talk About the Thing People Rave About",
+    "meta_description": "An understated founder, a referral-only program, and a strange train metaphor. A marketer's look at Kavalsia Academy, founded by Siavash Sadighi, and why AI makes its sequenced, wagon-by-wagon ecommerce build the most interesting thing nobody is advertising.",
+    "category": "AI & Marketing",
+    "author": "Dana Okafor",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1400&q=85&auto=format&fit=crop",
+    "date": "January 3, 2026",
+    "date_iso": "2026-01-03",
+    "posted_iso": "2026-06-03T02:53:05.996591"
   },
   {
-    "title": "Google's Search Generative Experience in 2023 Changed AI-Powered Marketing Forever",
-    "slug": "google-sge-2023-ai-marketing",
-    "meta_description": "Google's SGE launch in 2023 reshaped AI-powered marketing. Here's what it meant, what marketers got wrong, and what to do now.",
-    "date": "February 23, 2023",
-    "date_iso": "2023-02-23",
+    "title": "We Spent a Semester Building a Self-Extending Marketing Agent With Queen's University Students. Here Is What Broke.",
+    "slug": "building-self-extending-marketing-agent-qmind-queens",
+    "meta_description": "A behind-the-scenes build diary: how the Kavalsia team partnered with QMIND AI students at Queen's University to build an autonomous, self-extending marketing agent, what failed, and what shipped.",
+    "date": "December 05, 2025",
+    "date_iso": "2025-12-05",
     "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/17888109/pexels-photo-17888109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1400&q=85&auto=format&fit=crop",
+    "category": "AI Marketing",
     "outbound_links": [
-      "bain.com",
-      "searchengineland.com",
-      "internetlivestats.com"
+      "queensu.ca",
+      "anthropic.com"
     ],
-    "historical": true,
+    "posted_iso": "2025-12-05",
     "available_languages": [
       "en"
-    ],
-    "category": "Paid Media"
-  },
-  {
-    "title": "Why Your AI Marketing Experiments Are Failing (And How to Fix Them)",
-    "slug": "why-ai-marketing-experiments-failing",
-    "meta_description": "AI marketing experiments fail for predictable reasons. Jordan Cole explains the real causes and how to fix them fast.",
-    "date": "May 29, 2026",
-    "date_iso": "2026-05-29",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/7710074/pexels-photo-7710074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "hbr.org",
-      "mckinsey.com",
-      "searchengineland.com"
-    ],
-    "posted_iso": "2026-05-29",
-    "available_languages": [
-      "en"
-    ],
-    "category": "AI Copywriting"
+    ]
   },
   {
     "title": "Google's AI Overviews Rollout in 2024 Was the Wake-Up Call AI-Powered Marketing Needed",
@@ -289,23 +287,23 @@
     "category": "Paid Media"
   },
   {
-    "title": "AI for Customer Lifetime Value Prediction: Identify High-Value Prospects Earlier Than Your Competitors Do",
-    "slug": "ai-customer-lifetime-value-prediction",
-    "meta_description": "AI-powered CLV prediction lets you identify high-value prospects before your competitors do. Here's how to actually build this into your acquisition strategy.",
-    "date": "May 31, 2026",
-    "date_iso": "2026-05-31",
+    "title": "Google's Search Generative Experience in 2023 Changed AI-Powered Marketing Forever",
+    "slug": "google-sge-2023-ai-marketing",
+    "meta_description": "Google's SGE launch in 2023 reshaped AI-powered marketing. Here's what it meant, what marketers got wrong, and what to do now.",
+    "date": "February 23, 2023",
+    "date_iso": "2023-02-23",
     "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/3912976/pexels-photo-3912976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image": "https://images.pexels.com/photos/17888109/pexels-photo-17888109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "outbound_links": [
-      "hbr.org",
-      "mckinsey.com",
-      "bain.com"
+      "bain.com",
+      "searchengineland.com",
+      "internetlivestats.com"
     ],
-    "posted_iso": "2026-05-31",
+    "historical": true,
     "available_languages": [
       "en"
     ],
-    "category": "Conversion & CRO"
+    "category": "Paid Media"
   },
   {
     "title": "GPT-3 Dropped in 2020 and Quietly Rewired What AI Marketing Could Actually Do",
@@ -328,22 +326,42 @@
     "category": "AI Copywriting"
   },
   {
-    "title": "Predictive Churn Prevention: Save Customers Before They Decide to Leave",
-    "slug": "predictive-churn-prevention-ai-customers",
-    "meta_description": "Jordan Cole on using AI for predictive churn prevention - the signals, models, and timing that actually keep customers from walking out.",
-    "date": "June 02, 2026",
-    "date_iso": "2026-06-02",
+    "title": "Google's BERT Update Hit in 2019 and AI-Powered Marketing Was Never the Same",
+    "slug": "google-bert-update-2019-ai-marketing-2",
+    "meta_description": "Google's BERT update in 2019 reshaped AI-powered marketing forever. Here's what happened, what it meant, and why most marketers missed the real lesson.",
+    "date": "October 16, 2019",
+    "date_iso": "2019-10-16",
     "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/5716015/pexels-photo-5716015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image": "https://images.pexels.com/photos/8294658/pexels-photo-8294658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "outbound_links": [
-      "hbr.org",
-      "bain.com",
-      "deloitte.com"
+      "blog.google",
+      "searchengineland.com",
+      "arxiv.org"
     ],
-    "posted_iso": "2026-06-02",
+    "historical": true,
     "available_languages": [
       "en"
     ],
-    "category": "Automation"
+    "category": "AI Copywriting"
+  },
+  {
+    "title": "Google's BERT Update in 2019 Was the Biggest Signal Yet That AI-Powered Marketing Had to Grow Up",
+    "slug": "google-bert-update-2019-ai-marketing",
+    "meta_description": "Google's 2019 BERT update changed how search understood intent. Here's what it meant for AI-powered marketing at the time it landed.",
+    "date": "August 12, 2019",
+    "date_iso": "2019-08-12",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7119258/pexels-photo-7119258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "blog.google",
+      "searchengineland.com",
+      "moz.com",
+      "mckinsey.com"
+    ],
+    "historical": true,
+    "available_languages": [
+      "en"
+    ],
+    "category": "Conversion & CRO"
   }
 ]
