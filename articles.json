@@ -363,5 +363,23 @@
       "en"
     ],
     "category": "Conversion & CRO"
+  },
+  {
+    "title": "ChatGPT Arrived in November 2022 and Broke Marketing in the Best Way",
+    "slug": "chatgpt-2022-launch-marketing-impact",
+    "meta_description": "ChatGPT's November 2022 launch reshaped AI-powered marketing overnight. Here's what it actually meant for practitioners in real time.",
+    "date": "September 16, 2022",
+    "date_iso": "2022-09-16",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/36755611/pexels-photo-36755611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "openai.com",
+      "mckinsey.com"
+    ],
+    "posted_iso": "2026-06-09",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
