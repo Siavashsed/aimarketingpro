@@ -381,5 +381,25 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "OpenAI's GPT-4o Launch Broke Performance Marketing in the Best Way",
+    "slug": "openai-gpt4o-launch-2024-marketing",
+    "meta_description": "Jordan Cole on how OpenAI's GPT-4o launch in May 2024 changed AI-powered marketing forever - and what it actually meant for ad teams.",
+    "date": "March 01, 2024",
+    "date_iso": "2024-03-01",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/16094040/pexels-photo-16094040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "openai.com",
+      "reuters.com",
+      "mckinsey.com",
+      "ftc.gov"
+    ],
+    "posted_iso": "2026-06-10",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
