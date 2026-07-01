@@ -401,5 +401,43 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Content Calendar Is Already Two Weeks Behind. AI Can Fix That.",
+    "slug": "automate-content-calendar-ai",
+    "meta_description": "Jordan Cole explains how to automate your content calendar with AI tools without handing over strategic control. Real workflows, real results.",
+    "date": "July 01, 2026",
+    "date_iso": "2026-07-01",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7679672/pexels-photo-7679672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "semrush.com",
+      "contentmarketinginstitute.com"
+    ],
+    "posted_iso": "2026-07-01",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "GPT-4 Hit Marketing Teams Like a Freight Train in March 2023",
+    "slug": "gpt4-launch-2023-ai-marketing",
+    "meta_description": "GPT-4 launched March 2023 and rewired how performance marketers work. Here's what actually changed, what didn't, and what it meant for AI-powered marketing.",
+    "date": "November 11, 2023",
+    "date_iso": "2023-11-11",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/34804000/pexels-photo-34804000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "openai.com",
+      "mckinsey.com",
+      "reuters.com",
+      "hbr.org",
+      "ai.google"
+    ],
+    "posted_iso": "2026-07-01",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
