@@ -439,5 +439,40 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "I Ran the Same Brief Through ChatGPT, Claude, and Gemini. One Won.",
+    "slug": "chatgpt-claude-gemini-copy-honest",
+    "meta_description": "An honest ChatGPT vs Claude vs Gemini comparison for marketing copy from a performance marketer who tested all three on real campaigns.",
+    "date": "July 13, 2026",
+    "date_iso": "2026-07-13",
+    "author": "Priya Nair",
+    "image": "https://images.pexels.com/photos/293333/pexels-photo-293333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "nngroup.com",
+      "developers.google.com"
+    ],
+    "posted_iso": "2026-07-13",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Jasper Just Hit $1.5 Billion. The AI Copy Land Grab Is On.",
+    "slug": "jasper-125m-ai-copywriting-2022",
+    "meta_description": "Jasper raised $125M at a $1.5B valuation this month. A performance marketer breaks down what the AI copywriting boom means for your team.",
+    "date": "November 19, 2022",
+    "date_iso": "2022-11-19",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7793106/pexels-photo-7793106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "techcrunch.com",
+      "gartner.com"
+    ],
+    "posted_iso": "2026-07-13",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
