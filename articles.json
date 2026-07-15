@@ -474,5 +474,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your AI Posts Every Day. That's Exactly Why Nobody Trusts Them",
+    "slug": "automate-social-media-ai-authenticity",
+    "meta_description": "How to automate social media with AI and keep it sounding human. Real workflows, honest limits, and the mistakes that cost me engagement.",
+    "date": "July 15, 2026",
+    "date_iso": "2026-07-15",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/36713184/pexels-photo-36713184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "sproutsocial.com",
+      "edelman.com"
+    ],
+    "posted_iso": "2026-07-15",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
