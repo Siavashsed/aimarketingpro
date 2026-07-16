@@ -491,5 +491,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "I Cut 14 AI Tools Down to 4 and Got My Week Back",
+    "slug": "ai-tools-save-marketing-time",
+    "meta_description": "A performance marketer's honest take on which AI tools save real time in a marketing workflow, and which ones quietly add hours.",
+    "date": "July 16, 2026",
+    "date_iso": "2026-07-16",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/6483587/pexels-photo-6483587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "hubspot.com",
+      "nngroup.com"
+    ],
+    "posted_iso": "2026-07-16",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
