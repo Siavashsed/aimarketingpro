@@ -508,5 +508,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your AI Landing Page Copy Flops Because the Prompt Is Empty",
+    "slug": "prompt-ai-landing-page-copy",
+    "meta_description": "Prompting AI for landing page copy that converts means feeding it customer evidence, not adjectives. The layered process I use after $10M in ad spend.",
+    "date": "July 17, 2026",
+    "date_iso": "2026-07-17",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7653982/pexels-photo-7653982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "unbounce.com",
+      "nngroup.com"
+    ],
+    "posted_iso": "2026-07-17",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
