@@ -525,5 +525,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "I Ran 47 AI Ad Audits This Year. The Waste Never Changed.",
+    "slug": "ai-ad-audits-wasted-spend-lessons",
+    "meta_description": "47 AI marketing audits in one year revealed the same wasted ad spend patterns. Where the money leaks, what the data shows, and how to stop it.",
+    "date": "July 19, 2026",
+    "date_iso": "2026-07-19",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7693201/pexels-photo-7693201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "ana.net",
+      "juniperresearch.com"
+    ],
+    "posted_iso": "2026-07-19",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
