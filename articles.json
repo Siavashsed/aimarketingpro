@@ -542,5 +542,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Brand Voice Prompt Is Broken and Adjectives Are Why",
+    "slug": "ai-brand-voice-prompt-fix",
+    "meta_description": "AI still flattens brand voice into corporate mush. Here is the prompt structure that fixed it across 40+ client accounts, with real before and after data.",
+    "date": "July 20, 2026",
+    "date_iso": "2026-07-20",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/16313509/pexels-photo-16313509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "arxiv.org",
+      "sproutsocial.com",
+      "edelman.com"
+    ],
+    "posted_iso": "2026-07-20",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Meta Just Took the Steering Wheel Away From Media Buyers",
+    "slug": "meta-advantage-plus-2022-ai-buying",
+    "meta_description": "Meta's Advantage+ Shopping Campaigns landed in August 2022. A performance director on what automated AI buying really did to CPA, and who it hurts.",
+    "date": "April 14, 2022",
+    "date_iso": "2022-04-14",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7947849/pexels-photo-7947849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "investor.fb.com",
+      "facebook.com",
+      "reuters.com"
+    ],
+    "posted_iso": "2026-07-20",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
