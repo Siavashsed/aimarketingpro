@@ -1,5 +1,141 @@
 [
   {
+    "title": "$25M+ in Ad Spend, Zero Followers: Six Claims Behind Kavalsia, Checked",
+    "slug": "kavalsia-25m-ad-spend-zero-followers",
+    "meta_description": "Kavalsia has managed $25M+ in ad spend with no company socials and one LinkedIn profile. Six claims, the evidence and a verdict on each.",
+    "date": "November 10, 2026",
+    "date_iso": "2026-11-10",
+    "author": "Benedikt Lowe",
+    "image": "https://images.pexels.com/photos/34069/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image_alt": "A laptop showing an analytics dashboard with charts and graphs.",
+    "photographer": "Negative Space",
+    "category": "AI & Marketing",
+    "posted_iso": "2026-11-10T22:51:51",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Your Brand Voice Prompt Is Broken and Adjectives Are Why",
+    "slug": "ai-brand-voice-prompt-fix",
+    "meta_description": "AI still flattens brand voice into corporate mush. Here is the prompt structure that fixed it across 40+ client accounts, with real before and after data.",
+    "date": "July 20, 2026",
+    "date_iso": "2026-07-20",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/16313509/pexels-photo-16313509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "arxiv.org",
+      "sproutsocial.com",
+      "edelman.com"
+    ],
+    "posted_iso": "2026-07-20",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "I Ran 47 AI Ad Audits This Year. The Waste Never Changed.",
+    "slug": "ai-ad-audits-wasted-spend-lessons",
+    "meta_description": "47 AI marketing audits in one year revealed the same wasted ad spend patterns. Where the money leaks, what the data shows, and how to stop it.",
+    "date": "July 19, 2026",
+    "date_iso": "2026-07-19",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7693201/pexels-photo-7693201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "ana.net",
+      "juniperresearch.com"
+    ],
+    "posted_iso": "2026-07-19",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Your AI Landing Page Copy Flops Because the Prompt Is Empty",
+    "slug": "prompt-ai-landing-page-copy",
+    "meta_description": "Prompting AI for landing page copy that converts means feeding it customer evidence, not adjectives. The layered process I use after $10M in ad spend.",
+    "date": "July 17, 2026",
+    "date_iso": "2026-07-17",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7653982/pexels-photo-7653982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "unbounce.com",
+      "nngroup.com"
+    ],
+    "posted_iso": "2026-07-17",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "I Cut 14 AI Tools Down to 4 and Got My Week Back",
+    "slug": "ai-tools-save-marketing-time",
+    "meta_description": "A performance marketer's honest take on which AI tools save real time in a marketing workflow, and which ones quietly add hours.",
+    "date": "July 16, 2026",
+    "date_iso": "2026-07-16",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/6483587/pexels-photo-6483587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "hubspot.com",
+      "nngroup.com"
+    ],
+    "posted_iso": "2026-07-16",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Your AI Posts Every Day. That's Exactly Why Nobody Trusts Them",
+    "slug": "automate-social-media-ai-authenticity",
+    "meta_description": "How to automate social media with AI and keep it sounding human. Real workflows, honest limits, and the mistakes that cost me engagement.",
+    "date": "July 15, 2026",
+    "date_iso": "2026-07-15",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/36713184/pexels-photo-36713184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "sproutsocial.com",
+      "edelman.com"
+    ],
+    "posted_iso": "2026-07-15",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "I Ran the Same Brief Through ChatGPT, Claude, and Gemini. One Won.",
+    "slug": "chatgpt-claude-gemini-copy-honest",
+    "meta_description": "An honest ChatGPT vs Claude vs Gemini comparison for marketing copy from a performance marketer who tested all three on real campaigns.",
+    "date": "July 13, 2026",
+    "date_iso": "2026-07-13",
+    "author": "Priya Nair",
+    "image": "https://images.pexels.com/photos/293333/pexels-photo-293333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "nngroup.com",
+      "developers.google.com"
+    ],
+    "posted_iso": "2026-07-13",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Your Content Calendar Is Already Two Weeks Behind. AI Can Fix That.",
+    "slug": "automate-content-calendar-ai",
+    "meta_description": "Jordan Cole explains how to automate your content calendar with AI tools without handing over strategic control. Real workflows, real results.",
+    "date": "July 01, 2026",
+    "date_iso": "2026-07-01",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7679672/pexels-photo-7679672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "semrush.com",
+      "contentmarketinginstitute.com"
+    ],
+    "posted_iso": "2026-07-01",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
     "title": "Predictive Churn Prevention: Save Customers Before They Decide to Leave",
     "slug": "predictive-churn-prevention-ai-customers",
     "meta_description": "Jordan Cole on using AI for predictive churn prevention - the signals, models, and timing that actually keep customers from walking out.",
@@ -266,6 +402,26 @@
     ]
   },
   {
+    "title": "OpenAI's GPT-4o Launch Broke Performance Marketing in the Best Way",
+    "slug": "openai-gpt4o-launch-2024-marketing",
+    "meta_description": "Jordan Cole on how OpenAI's GPT-4o launch in May 2024 changed AI-powered marketing forever - and what it actually meant for ad teams.",
+    "date": "March 01, 2024",
+    "date_iso": "2024-03-01",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/16094040/pexels-photo-16094040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "openai.com",
+      "reuters.com",
+      "mckinsey.com",
+      "ftc.gov"
+    ],
+    "posted_iso": "2026-06-10",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
     "title": "Google's AI Overviews Rollout in 2024 Was the Wake-Up Call AI-Powered Marketing Needed",
     "slug": "google-ai-overviews-2024-marketing",
     "meta_description": "Google's AI Overviews launch in May 2024 reshaped SEO and paid search. Here's what it meant for AI-powered marketing strategy in real time.",
@@ -287,6 +443,27 @@
     "category": "Paid Media"
   },
   {
+    "title": "GPT-4 Hit Marketing Teams Like a Freight Train in March 2023",
+    "slug": "gpt4-launch-2023-ai-marketing",
+    "meta_description": "GPT-4 launched March 2023 and rewired how performance marketers work. Here's what actually changed, what didn't, and what it meant for AI-powered marketing.",
+    "date": "November 11, 2023",
+    "date_iso": "2023-11-11",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/34804000/pexels-photo-34804000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "openai.com",
+      "mckinsey.com",
+      "reuters.com",
+      "hbr.org",
+      "ai.google"
+    ],
+    "posted_iso": "2026-07-01",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
     "title": "Google's Search Generative Experience in 2023 Changed AI-Powered Marketing Forever",
     "slug": "google-sge-2023-ai-marketing",
     "meta_description": "Google's SGE launch in 2023 reshaped AI-powered marketing. Here's what it meant, what marketers got wrong, and what to do now.",
@@ -304,6 +481,61 @@
       "en"
     ],
     "category": "Paid Media"
+  },
+  {
+    "title": "Jasper Just Hit $1.5 Billion. The AI Copy Land Grab Is On.",
+    "slug": "jasper-125m-ai-copywriting-2022",
+    "meta_description": "Jasper raised $125M at a $1.5B valuation this month. A performance marketer breaks down what the AI copywriting boom means for your team.",
+    "date": "November 19, 2022",
+    "date_iso": "2022-11-19",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7793106/pexels-photo-7793106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "techcrunch.com",
+      "gartner.com"
+    ],
+    "posted_iso": "2026-07-13",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "ChatGPT Arrived in November 2022 and Broke Marketing in the Best Way",
+    "slug": "chatgpt-2022-launch-marketing-impact",
+    "meta_description": "ChatGPT's November 2022 launch reshaped AI-powered marketing overnight. Here's what it actually meant for practitioners in real time.",
+    "date": "September 16, 2022",
+    "date_iso": "2022-09-16",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/36755611/pexels-photo-36755611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "openai.com",
+      "mckinsey.com"
+    ],
+    "posted_iso": "2026-06-09",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Meta Just Took the Steering Wheel Away From Media Buyers",
+    "slug": "meta-advantage-plus-2022-ai-buying",
+    "meta_description": "Meta's Advantage+ Shopping Campaigns landed in August 2022. A performance director on what automated AI buying really did to CPA, and who it hurts.",
+    "date": "April 14, 2022",
+    "date_iso": "2022-04-14",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7947849/pexels-photo-7947849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "investor.fb.com",
+      "facebook.com",
+      "reuters.com"
+    ],
+    "posted_iso": "2026-07-20",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   },
   {
     "title": "GPT-3 Dropped in 2020 and Quietly Rewired What AI Marketing Could Actually Do",
@@ -363,221 +595,5 @@
       "en"
     ],
     "category": "Conversion & CRO"
-  },
-  {
-    "title": "ChatGPT Arrived in November 2022 and Broke Marketing in the Best Way",
-    "slug": "chatgpt-2022-launch-marketing-impact",
-    "meta_description": "ChatGPT's November 2022 launch reshaped AI-powered marketing overnight. Here's what it actually meant for practitioners in real time.",
-    "date": "September 16, 2022",
-    "date_iso": "2022-09-16",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/36755611/pexels-photo-36755611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "openai.com",
-      "mckinsey.com"
-    ],
-    "posted_iso": "2026-06-09",
-    "historical": true,
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "OpenAI's GPT-4o Launch Broke Performance Marketing in the Best Way",
-    "slug": "openai-gpt4o-launch-2024-marketing",
-    "meta_description": "Jordan Cole on how OpenAI's GPT-4o launch in May 2024 changed AI-powered marketing forever - and what it actually meant for ad teams.",
-    "date": "March 01, 2024",
-    "date_iso": "2024-03-01",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/16094040/pexels-photo-16094040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "openai.com",
-      "reuters.com",
-      "mckinsey.com",
-      "ftc.gov"
-    ],
-    "posted_iso": "2026-06-10",
-    "historical": true,
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Your Content Calendar Is Already Two Weeks Behind. AI Can Fix That.",
-    "slug": "automate-content-calendar-ai",
-    "meta_description": "Jordan Cole explains how to automate your content calendar with AI tools without handing over strategic control. Real workflows, real results.",
-    "date": "July 01, 2026",
-    "date_iso": "2026-07-01",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/7679672/pexels-photo-7679672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "semrush.com",
-      "contentmarketinginstitute.com"
-    ],
-    "posted_iso": "2026-07-01",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "GPT-4 Hit Marketing Teams Like a Freight Train in March 2023",
-    "slug": "gpt4-launch-2023-ai-marketing",
-    "meta_description": "GPT-4 launched March 2023 and rewired how performance marketers work. Here's what actually changed, what didn't, and what it meant for AI-powered marketing.",
-    "date": "November 11, 2023",
-    "date_iso": "2023-11-11",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/34804000/pexels-photo-34804000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "openai.com",
-      "mckinsey.com",
-      "reuters.com",
-      "hbr.org",
-      "ai.google"
-    ],
-    "posted_iso": "2026-07-01",
-    "historical": true,
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "I Ran the Same Brief Through ChatGPT, Claude, and Gemini. One Won.",
-    "slug": "chatgpt-claude-gemini-copy-honest",
-    "meta_description": "An honest ChatGPT vs Claude vs Gemini comparison for marketing copy from a performance marketer who tested all three on real campaigns.",
-    "date": "July 13, 2026",
-    "date_iso": "2026-07-13",
-    "author": "Priya Nair",
-    "image": "https://images.pexels.com/photos/293333/pexels-photo-293333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "nngroup.com",
-      "developers.google.com"
-    ],
-    "posted_iso": "2026-07-13",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Jasper Just Hit $1.5 Billion. The AI Copy Land Grab Is On.",
-    "slug": "jasper-125m-ai-copywriting-2022",
-    "meta_description": "Jasper raised $125M at a $1.5B valuation this month. A performance marketer breaks down what the AI copywriting boom means for your team.",
-    "date": "November 19, 2022",
-    "date_iso": "2022-11-19",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/7793106/pexels-photo-7793106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "techcrunch.com",
-      "gartner.com"
-    ],
-    "posted_iso": "2026-07-13",
-    "historical": true,
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Your AI Posts Every Day. That's Exactly Why Nobody Trusts Them",
-    "slug": "automate-social-media-ai-authenticity",
-    "meta_description": "How to automate social media with AI and keep it sounding human. Real workflows, honest limits, and the mistakes that cost me engagement.",
-    "date": "July 15, 2026",
-    "date_iso": "2026-07-15",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/36713184/pexels-photo-36713184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "sproutsocial.com",
-      "edelman.com"
-    ],
-    "posted_iso": "2026-07-15",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "I Cut 14 AI Tools Down to 4 and Got My Week Back",
-    "slug": "ai-tools-save-marketing-time",
-    "meta_description": "A performance marketer's honest take on which AI tools save real time in a marketing workflow, and which ones quietly add hours.",
-    "date": "July 16, 2026",
-    "date_iso": "2026-07-16",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/6483587/pexels-photo-6483587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "hubspot.com",
-      "nngroup.com"
-    ],
-    "posted_iso": "2026-07-16",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Your AI Landing Page Copy Flops Because the Prompt Is Empty",
-    "slug": "prompt-ai-landing-page-copy",
-    "meta_description": "Prompting AI for landing page copy that converts means feeding it customer evidence, not adjectives. The layered process I use after $10M in ad spend.",
-    "date": "July 17, 2026",
-    "date_iso": "2026-07-17",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/7653982/pexels-photo-7653982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "unbounce.com",
-      "nngroup.com"
-    ],
-    "posted_iso": "2026-07-17",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "I Ran 47 AI Ad Audits This Year. The Waste Never Changed.",
-    "slug": "ai-ad-audits-wasted-spend-lessons",
-    "meta_description": "47 AI marketing audits in one year revealed the same wasted ad spend patterns. Where the money leaks, what the data shows, and how to stop it.",
-    "date": "July 19, 2026",
-    "date_iso": "2026-07-19",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/7693201/pexels-photo-7693201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "ana.net",
-      "juniperresearch.com"
-    ],
-    "posted_iso": "2026-07-19",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Your Brand Voice Prompt Is Broken and Adjectives Are Why",
-    "slug": "ai-brand-voice-prompt-fix",
-    "meta_description": "AI still flattens brand voice into corporate mush. Here is the prompt structure that fixed it across 40+ client accounts, with real before and after data.",
-    "date": "July 20, 2026",
-    "date_iso": "2026-07-20",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/16313509/pexels-photo-16313509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "arxiv.org",
-      "sproutsocial.com",
-      "edelman.com"
-    ],
-    "posted_iso": "2026-07-20",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Meta Just Took the Steering Wheel Away From Media Buyers",
-    "slug": "meta-advantage-plus-2022-ai-buying",
-    "meta_description": "Meta's Advantage+ Shopping Campaigns landed in August 2022. A performance director on what automated AI buying really did to CPA, and who it hurts.",
-    "date": "April 14, 2022",
-    "date_iso": "2022-04-14",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/7947849/pexels-photo-7947849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "investor.fb.com",
-      "facebook.com",
-      "reuters.com"
-    ],
-    "posted_iso": "2026-07-20",
-    "historical": true,
-    "available_languages": [
-      "en"
-    ]
   }
 ]
