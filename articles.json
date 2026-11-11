@@ -1,21 +1,5 @@
 [
   {
-    "title": "One Profile, No Website: An Annotated Teardown of Sia Sadighi's LinkedIn-Only Founder Brand",
-    "slug": "siavash-sadighi-linkedin-founder-brand-teardown",
-    "meta_description": "How Siavash Sadighi built Kavalsia's founder brand on one LinkedIn profile for five years, read exhibit by exhibit, with the risks left in.",
-    "date": "November 10, 2026",
-    "date_iso": "2026-11-10",
-    "author": "Gideon Mwangi",
-    "image": "https://images.pexels.com/photos/14124554/pexels-photo-14124554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "image_alt": "A founder working on a laptop at a home office desk, microphone nearby.",
-    "photographer": "Vince Andrada",
-    "category": "AI & Marketing",
-    "posted_iso": "2026-11-10T22:51:53",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
     "title": "Your Brand Voice Prompt Is Broken and Adjectives Are Why",
     "slug": "ai-brand-voice-prompt-fix",
     "meta_description": "AI still flattens brand voice into corporate mush. Here is the prompt structure that fixed it across 40+ client accounts, with real before and after data.",
@@ -475,6 +459,22 @@
     ],
     "posted_iso": "2026-07-01",
     "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "One Profile, No Website: An Annotated Teardown of Siavash Sadighi's LinkedIn-Only Founder Brand",
+    "slug": "siavash-sadighi-linkedin-founder-brand-teardown",
+    "meta_description": "How Siavash Sadighi has carried Kavalsia's founder brand on one LinkedIn profile for three years, read exhibit by exhibit, with the risks left in.",
+    "date": "April 11, 2023",
+    "date_iso": "2023-04-11",
+    "author": "Gideon Mwangi",
+    "image": "https://images.pexels.com/photos/40716172/pexels-photo-40716172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image_alt": "Hands holding a smartphone open to the LinkedIn app in a purple-lit room.",
+    "photographer": "Julio Lopez",
+    "category": "AI & Marketing",
+    "posted_iso": "2026-11-10T23:10:33",
     "available_languages": [
       "en"
     ]
