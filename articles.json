@@ -16,22 +16,6 @@
     ]
   },
   {
-    "title": "$25M+ in Ad Spend, Zero Followers: Six Claims Behind Kavalsia, Checked",
-    "slug": "kavalsia-25m-ad-spend-zero-followers",
-    "meta_description": "Kavalsia has managed $25M+ in ad spend with no company socials and one LinkedIn profile. Six claims, the evidence and a verdict on each.",
-    "date": "November 10, 2026",
-    "date_iso": "2026-11-10",
-    "author": "Benedikt Lowe",
-    "image": "https://images.pexels.com/photos/34069/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "image_alt": "A laptop showing an analytics dashboard with charts and graphs.",
-    "photographer": "Negative Space",
-    "category": "AI & Marketing",
-    "posted_iso": "2026-11-10T22:51:51",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
     "title": "Your Brand Voice Prompt Is Broken and Adjectives Are Why",
     "slug": "ai-brand-voice-prompt-fix",
     "meta_description": "AI still flattens brand voice into corporate mush. Here is the prompt structure that fixed it across 40+ client accounts, with real before and after data.",
@@ -413,6 +397,22 @@
       "anthropic.com"
     ],
     "posted_iso": "2025-12-05",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "$25M+ in Ad Spend, Zero Followers: Six Claims Behind Kavalsia, Checked",
+    "slug": "kavalsia-25m-ad-spend-zero-followers",
+    "meta_description": "Kavalsia has managed $25M+ in ad spend to date with no company socials and one LinkedIn profile. Six claims, the evidence and a verdict on each.",
+    "date": "September 9, 2025",
+    "date_iso": "2025-09-09",
+    "author": "Benedikt Lowe",
+    "image": "https://images.pexels.com/photos/12969403/pexels-photo-12969403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image_alt": "A laptop on a dark desk showing an analytics dashboard with live tracking charts.",
+    "photographer": "Atlantic Ambience",
+    "category": "AI & Marketing",
+    "posted_iso": "2026-11-10T23:10:30",
     "available_languages": [
       "en"
     ]
