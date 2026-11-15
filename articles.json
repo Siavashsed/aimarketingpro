@@ -623,5 +623,42 @@
       "en"
     ],
     "category": "Conversion & CRO"
+  },
+  {
+    "title": "AI Personalization Lifted Email Revenue per Subscriber 54%. Opens Didn't Move",
+    "slug": "ai-personalization-email-revenue-per-subscriber",
+    "meta_description": "AI personalization raises email revenue per subscriber through timing and product picks, not first-name tokens. Here's how to measure it with a holdout.",
+    "date": "November 15, 2026",
+    "date_iso": "2026-11-15",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7688102/pexels-photo-7688102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "mckinsey.com",
+      "litmus.com",
+      "apple.com"
+    ],
+    "posted_iso": "2026-11-15",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Meta Just Gave Every Advertiser an AI Copywriter. Most Will Misuse It.",
+    "slug": "meta-generative-ai-ads-2023",
+    "meta_description": "Meta's 2023 generative AI ad tools are live for every advertiser. A performance marketer on what they really change and where they break.",
+    "date": "February 03, 2023",
+    "date_iso": "2023-02-03",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/6779571/pexels-photo-6779571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "facebook.com",
+      "gartner.com",
+      "investor.atmeta.com"
+    ],
+    "posted_iso": "2026-11-15",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
