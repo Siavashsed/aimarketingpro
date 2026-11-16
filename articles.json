@@ -660,5 +660,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Predictive Churn Models Catch Leavers. Most Marketers Waste the Warning.",
+    "slug": "predictive-churn-models-marketers-save-offers",
+    "meta_description": "Predictive churn models flag at-risk customers, but the save offer decides the result. How to target persuadable customers and stop discounting loyal ones.",
+    "date": "November 16, 2026",
+    "date_iso": "2026-11-16",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/36496955/pexels-photo-36496955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "hbr.org",
+      "recurly.com"
+    ],
+    "posted_iso": "2026-11-16",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
