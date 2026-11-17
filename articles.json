@@ -677,5 +677,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your AI Ad Variations Are Losing Because You Test Them Wrong",
+    "slug": "ai-ad-creative-variation-testing-framework",
+    "meta_description": "A practical framework for generating ad creative variations at scale with AI image tools, testing concepts before pixels so your budget finds real winners.",
+    "date": "November 17, 2026",
+    "date_iso": "2026-11-17",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7691714/pexels-photo-7691714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "nielsen.com",
+      "engineering.fb.com"
+    ],
+    "posted_iso": "2026-11-17",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
