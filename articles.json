@@ -694,5 +694,25 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Generative Engine Optimization Is Won With Statistics, Not Keywords",
+    "slug": "generative-engine-optimization-get-cited",
+    "meta_description": "Generative engine optimization explained by a performance marketer: how to get your brand cited by ChatGPT, Perplexity and AI Overviews.",
+    "date": "November 18, 2026",
+    "date_iso": "2026-11-18",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/139387/pexels-photo-139387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "arxiv.org",
+      "gartner.com",
+      "pewresearch.org",
+      "tryprofound.com",
+      "peec.ai"
+    ],
+    "posted_iso": "2026-11-18",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
