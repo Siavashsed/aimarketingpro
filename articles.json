@@ -714,5 +714,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "AI Can Personalize Landing Pages per Source. Most Teams Overdo It.",
+    "slug": "ai-personalize-landing-pages-traffic-source",
+    "meta_description": "How to use AI to personalize landing pages for every traffic source: match the promise of each click, rewrite four blocks, and measure it.",
+    "date": "November 19, 2026",
+    "date_iso": "2026-11-19",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7947669/pexels-photo-7947669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "mckinsey.com",
+      "unbounce.com",
+      "support.google.com"
+    ],
+    "posted_iso": "2026-11-19",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
