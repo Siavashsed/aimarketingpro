@@ -732,5 +732,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your AI Marketing Audit Should Take Ten Days, Not Ten Weeks",
+    "slug": "ai-marketing-audit-10-point-checklist",
+    "meta_description": "A 10-point AI marketing audit checklist for agencies and in-house teams, from a performance marketer who has run $10M+ in ad spend. Built to cut waste fast.",
+    "date": "November 20, 2026",
+    "date_iso": "2026-11-20",
+    "author": "Siavash Sadighi",
+    "image": "https://images.pexels.com/photos/9034222/pexels-photo-9034222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "mckinsey.com",
+      "gartner.com"
+    ],
+    "posted_iso": "2026-11-20",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
