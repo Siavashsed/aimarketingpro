@@ -749,5 +749,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "AI Copywriting Tools Rarely Win A/B Tests Alone. Here's What Does",
+    "slug": "ai-copywriting-tools-ab-test-performance",
+    "meta_description": "AI copywriting tools lose to human copy about as often as they win. Real A/B test patterns, where they pay off, and the workflow that actually lifts CTR.",
+    "date": "November 21, 2026",
+    "date_iso": "2026-11-21",
+    "author": "Rohan Mehta",
+    "image": "https://images.pexels.com/photos/8068810/pexels-photo-8068810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "nngroup.com",
+      "hbs.edu"
+    ],
+    "posted_iso": "2026-11-21",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
