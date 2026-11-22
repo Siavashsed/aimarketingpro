@@ -766,5 +766,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Claude Wrote My Best Ad Copy. My Agency Never Got the Brief",
+    "slug": "claude-ad-copy-beats-agency-brief",
+    "meta_description": "Claude can beat your agency on ad copy if you feed it real customer language. Here's the exact input, loop and limits I use on live accounts.",
+    "date": "November 22, 2026",
+    "date_iso": "2026-11-22",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/6801649/pexels-photo-6801649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "nielsen.com",
+      "docs.anthropic.com",
+      "ftc.gov"
+    ],
+    "posted_iso": "2026-11-22",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Facebook's 2019 Ad Settlement Fixed the Checkboxes and Left the Algorithm Alone",
+    "slug": "facebook-2019-ad-discrimination-settlement",
+    "meta_description": "Facebook's March 2019 ad discrimination settlement removed targeting options, but delivery bias remains. What it means for your housing, job and credit campaigns.",
+    "date": "May 19, 2019",
+    "date_iso": "2019-05-19",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7414286/pexels-photo-7414286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "about.fb.com",
+      "arxiv.org",
+      "hud.gov"
+    ],
+    "posted_iso": "2026-11-22",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
