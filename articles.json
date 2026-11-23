@@ -803,5 +803,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Automating Your Content Calendar With AI Starts With What You Refuse to Automate",
+    "slug": "automate-content-calendar-ai-strategy-first",
+    "meta_description": "Automate your content calendar with AI by handing off logistics, not strategy. Here's the stack, the review loop and the failure I paid for.",
+    "date": "November 23, 2026",
+    "date_iso": "2026-11-23",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/5408684/pexels-photo-5408684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "mckinsey.com",
+      "contentmarketinginstitute.com"
+    ],
+    "posted_iso": "2026-11-23",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
