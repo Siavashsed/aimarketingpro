@@ -820,5 +820,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Lead Scoring Model Is Guessing Until It Learns From Closed Deals",
+    "slug": "ai-lead-scoring-closed-revenue",
+    "meta_description": "An AI-powered lead scoring system only works when it learns from closed revenue. Here's how I build one that sales trusts, from data to ad feedback.",
+    "date": "November 24, 2026",
+    "date_iso": "2026-11-24",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/7947666/pexels-photo-7947666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "hbr.org",
+      "gartner.com"
+    ],
+    "posted_iso": "2026-11-24",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
