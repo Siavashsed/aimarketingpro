@@ -837,5 +837,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Claude Writes My Ads, ChatGPT Writes My Variants, Gemini Reads My Data",
+    "slug": "chatgpt-claude-gemini-copy-ad-spend",
+    "meta_description": "ChatGPT vs Claude vs Gemini for marketing copy, tested with real ad spend. Which tool to use for hooks, volume, and research, and where each one fails.",
+    "date": "November 25, 2026",
+    "date_iso": "2026-11-25",
+    "author": "Priya Nair",
+    "image": "https://images.pexels.com/photos/8512393/pexels-photo-8512393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "science.org",
+      "hai.stanford.edu"
+    ],
+    "posted_iso": "2026-11-25",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
