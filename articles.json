@@ -854,5 +854,24 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Competitor Reports Are Stale by Friday. Fix That With AI",
+    "slug": "ai-competitor-analysis-at-scale-workflow",
+    "meta_description": "Using AI for competitor analysis at scale means automating the collection and keeping the judgment human. Here's the stack, the traps, and the weekly routine.",
+    "date": "November 26, 2026",
+    "date_iso": "2026-11-26",
+    "author": "Siavash Sadighi",
+    "image": "https://images.pexels.com/photos/34069/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "facebook.com",
+      "adstransparency.google.com",
+      "hai.stanford.edu",
+      "mckinsey.com"
+    ],
+    "posted_iso": "2026-11-26",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
