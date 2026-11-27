@@ -873,5 +873,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "I Let AI Run a Client's Social for 21 Days. Never Again",
+    "slug": "automating-social-media-ai-authenticity",
+    "meta_description": "Automating social media with AI works until your audience hears a stranger. Here's what to automate, what to protect, and the workflow I now use.",
+    "date": "November 27, 2026",
+    "date_iso": "2026-11-27",
+    "author": "Jordan Cole",
+    "image": "",
+    "outbound_links": [
+      "pewresearch.org",
+      "about.fb.com"
+    ],
+    "posted_iso": "2026-11-27",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
